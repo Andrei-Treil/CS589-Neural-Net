@@ -125,4 +125,3 @@ Running backpropagation
 		Final regularized gradients of Theta3:
 			0.08135  0.17935  0.12476  0.13186  
 			0.20982  0.19195  0.30343  0.25249  
-
