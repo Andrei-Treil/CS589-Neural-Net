@@ -1,6 +1,6 @@
 # Dependencies
 - Written in Python 3.9.13
-- pandas,numpy,matplotlib,random
+- pandas,numpy,matplotlib,random,scikit-learn
 # Running the Code
 - Source code must be in same directory as ```datasets``` folder containing datasets included in my submission (edited first line of ```hw3_wine.csv``` to help with formatting by changing "# class" to "class")
 - Must include my version of ```hw4_script.py``` in same directory
